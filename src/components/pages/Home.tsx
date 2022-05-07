@@ -10,7 +10,7 @@ export default function Home({}: Props) {
         Thunderhead Design provides a unique mix of services focused on
         
       </Typography>
-      <img src='https://thunderhead-design.s3.us-west-2.amazonaws.com/thunderhead-design-images/profile+picture.png' /> 
+      <img src='https://thunderhead-design.s3.us-west-2.amazonaws.com/thunderhead-design-images/drone.jpg' /> 
       <img src='https://thunderhead-design.s3.us-west-2.amazonaws.com/thunderhead-design-images/background-u2198.png' /> 
     </>
   )
