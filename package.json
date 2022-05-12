@@ -22,7 +22,7 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "dev": "concurrently \"npm start\" \"sass --watch src/Style/scss:src/Style/css\"",
     "sass": "sass --watch src/Style/scss:src/Style/css",
     "build": "react-scripts build",
