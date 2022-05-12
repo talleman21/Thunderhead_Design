@@ -1,0 +1,16 @@
+
+@use '../../../node_modules/bootstrap/scss/bootstrap.scss' with (
+  $primary:rgb(168, 34, 34)
+);
+
+.App{
+  font-family: 'Lato', sans-serif;
+}
+
+.nav-link{
+  cursor:default;
+}
+
+.portfolio-box-caption{
+  background-color:rgba(168, 34, 34,.7) !important;
+}
